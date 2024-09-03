@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Unity\\GUA - Plane challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26EEF3-BD0C-0163-71F5-551323AE8067}|Assembly-CSharp.csproj|g:\\unity\\gua - plane challenge\\assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C26EEF3-BD0C-0163-71F5-551323AE8067}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FollowPlayerX.cs",
+              "DocumentMoniker": "G:\\Unity\\GUA - Plane challenge\\Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "ToolTip": "G:\\Unity\\GUA - Plane challenge\\Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:52:52.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
